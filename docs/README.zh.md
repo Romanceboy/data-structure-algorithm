@@ -40,4 +40,4 @@ git clone git@github.com:art-design-ui/data-structure-algorithm.git
 
 | Github Discunoovssions                                                 | 微信群                                |
 | ---------------------------------------------------------------------- | ------------------------------------- |
-| [加入数据结构和算法交流群](https://github.com/art-design-ui/noov.js/issues) | <img src="./image.png" width="150" /> |
+| [加入数据结构和算法交流群](https://github.com/art-design-ui/data-structure-algorithm/issues) | <img src="./image.png" width="150" /> |
