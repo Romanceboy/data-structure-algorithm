@@ -23,7 +23,7 @@ jobs:
     <<: *defaults
     steps:
       - add_ssh_keys:
-          fingerprints: '97:8a:d8:bb:eb:e9:22:7a:22:13:a9:df:8d:9e:17:24'
+          fingerprints: 'd3:17:f2:f9:22:67:34:35:18:73:12:3b:16:a1:aa:f2'
       - attach_workspace:
           at: ~/repo
       - restore_cache:
