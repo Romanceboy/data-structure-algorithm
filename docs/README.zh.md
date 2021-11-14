@@ -33,7 +33,6 @@ git clone git@github.com:art-design-ui/data-structure-algorithm.git
 ## 🔨 使用
 
 
-
 参考：[快速上手](/zh/guide/getting-started)。
 
 ## 社区

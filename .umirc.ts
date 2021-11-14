@@ -1,7 +1,7 @@
 import { defineConfig } from 'dumi'
 
 export default defineConfig({
-  title: 'data-structure-algorithm',
+  title: '数据结构和算法课',
   outputPath: 'docs/dist',
   mode: 'site',
   publicPath: 'https://art-design-ui.github.io/data-structure-algorithm/',
