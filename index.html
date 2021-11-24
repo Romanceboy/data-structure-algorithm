@@ -8,13 +8,13 @@
     />
     <link
       rel="stylesheet"
-      href="https://art-design-ui.github.io/noov.js/umi.css"
+      href="https://art-design-ui.github.io/data-structure-algorithm/umi.css"
     />
     <script>
-      window.routerBase = "/noov.js/";
+      window.routerBase = "/data-structure-algorithm/";
     </script>
     <script>
-      //! umi version: 3.4.20
+      //! umi version: 3.5.20
     </script>
     <script>
       !(function () {
@@ -23,15 +23,15 @@
           r = ["light", "dark", "auto"];
         document.documentElement.setAttribute(
           "data-prefers-color",
-          e === r[2] ? (t ? r[1] : r[0]) : r.includes(e) ? e : r[0]
+          e === r[2] ? (t ? r[1] : r[0]) : r.indexOf(e) > -1 ? e : r[0]
         );
       })();
     </script>
-    <title>footer: 遵循 MIT 开源协议 | 版权所有 © 2020由 dumi 提供支持</title>
+    <title>数据结构和算法 - 数据结构和算法课</title>
   </head>
   <body>
     <div id="root"></div>
 
-    <script src="https://art-design-ui.github.io/noov.js/umi.js"></script>
+    <script src="https://art-design-ui.github.io/data-structure-algorithm/umi.js"></script>
   </body>
 </html>
